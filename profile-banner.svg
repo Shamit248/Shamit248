@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Shamit Bundela — Software Developer</title>
+  <desc id="desc">Minimal dark technical banner with subtle grid, geometric lines and blue accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1118"/>
+      <stop offset="1" stop-color="#111c28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="0.55" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#7ee787"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9fb3c8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+  <path d="M780 0L1030 0L1200 170L1200 330L1040 330L820 110Z" fill="#17283a" opacity=".55"/>
+  <path d="M870 0L1200 0L1200 250Z" fill="#1b3449" opacity=".35"/>
+  <g fill="none" stroke="#58a6ff" stroke-opacity=".35" stroke-width="1.2">
+    <path d="M820 62h115v52h80v-30h115"/>
+    <path d="M900 0v62M935 114v56h105v45h160"/>
+    <path d="M1015 0v30h70v52h115"/>
+    <circle cx="935" cy="114" r="4" fill="#58a6ff"/>
+    <circle cx="1040" cy="215" r="4" fill="#7ee787"/>
+    <circle cx="1085" cy="82" r="4" fill="#58a6ff"/>
+  </g>
+  <rect x="72" y="78" width="4" height="142" rx="2" fill="url(#accent)"/>
+  <text x="102" y="137" fill="#e6edf3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="1.2">SHAMIT BUNDELA</text>
+  <text x="104" y="180" fill="#9da7b3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" letter-spacing="2.2">SOFTWARE DEVELOPMENT  /  AI  /  SYSTEMS</text>
+  <path d="M104 211h280" stroke="url(#accent)" stroke-width="2"/>
+  <text x="104" y="253" fill="#7d8590" font-family="Consolas, Menlo, monospace" font-size="14">BUILDING • LEARNING • ITERATING</text>
+  <text x="1120" y="286" text-anchor="end" fill="#7d8590" font-family="Consolas, Menlo, monospace" font-size="12">GITHUB / SHAMIT248</text>
+</svg>
