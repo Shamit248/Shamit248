@@ -1,4 +1,4 @@
-# Hey, I'm Shamit Bundela 👋
+# Hey, I'm Shamit Bundela 
 
 ### `Software Developer` · `AI/ML Explorer` · `Problem Solver`
 
