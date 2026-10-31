@@ -73,6 +73,4 @@ Currently exploring the intersection of **Software Engineering, Artificial Intel
 
 ---
 
-<p align="center">
-  <i>"Building today what I wish existed yesterday."</i>
-</p>
+
